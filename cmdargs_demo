@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "args: a1 a2 a3:\c"
+shift 1
+echo $3 $1 $2
+exit 0

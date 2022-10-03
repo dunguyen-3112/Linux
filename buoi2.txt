@@ -1,0 +1,24 @@
+zenity
+
+syntax
+
+ zenity --coomon-options --dialog-type --dialog-specific-options
+ 
+ + --title
+ + window-icon
+ + --height
+ + --timeout
+ + --calendar
+ + --entry
+ + --error
+ + --info
+ + -- file-selection
+ + --list
+ + --notification
+ + --progress
+ + --question
+ + --warning
+ + --scale
+ + --text-info
+ + --display=DISPLAY
+ + --text

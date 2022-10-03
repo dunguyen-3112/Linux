@@ -1,0 +1,3 @@
+pwd:path current
+read: doc gia tri vao
+
