@@ -1,0 +1,12 @@
+#!/bin/sh
+while [ $# -eq 2 ]; do
+	username=$1
+	password=$2
+	echo "$1 and $2"
+	ENTRY=`zenity --username --password`
+	echo "Password : `echo $ENTRY | cut -d'|' -f2`"
+	username1=`$ENTRY | cut -d'|' -f1`
+	echo "$username"
+	break
+done
+exit 0
