@@ -1,0 +1,9 @@
+Trực quan hóa dữ liệu	-	Ngày: T3/06/12/2022, Phòng: F301, Giờ: 7h00, Xuất: 2C1
+Khai phá dữ liệu	    -	Ngày: T5/08/12/2022, Phòng: F108, Giờ: 9h00, Xuất: 2C2
+XL ngôn ngữ tự nhiên	-	Ngày: T7/10/12/2022, Phòng: F108, Giờ: 7h00, Xuất: 2C1
+Lập trình trên Linux	-	Ngày: T4/14/12/2022, Phòng: F301, Giờ: 13h00, Xuất: 2C3
+Chuyên đề CNTT	        A   Ngày: T6/16/12/2022, Phòng: F403, Giờ: 7h00, Xuất: 2C1
+Học máy và UD	        -   Ngày: T4/21/12/2022, Phòng: H208, Giờ: 7h00, Xuất: 2C1
+XL dữ liệu	            -   Ngày: T2/26/12/2022, Phòng: F403, Giờ: 7h00, Xuất: 2C1
+Chủ nghĩa XHKH	        -   Ngày: T3/27/12/2022, Phòng: F206, Giờ: 7h00, Xuất: 2C1
+PBL 6: KHDL và TT NT	-	Ngày: T5/29/12/2022, Phòng: E401, Giờ: 7h00, Xuất: 2C1
